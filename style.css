@@ -16,7 +16,9 @@ body {
 .hd-img {
     width: 100px;
     float: left;
-    margin: 0 15px 0 0;
+}
+.hd-cont {
+    margin-left: 115px;
 }
 .hd-status {
     color: #d35f5f;
