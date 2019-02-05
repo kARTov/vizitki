@@ -6,6 +6,10 @@ body {
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
 }
+a {
+    color: #f2f2f2;
+    text-decoration: none;
+}
 .hd {
     border-bottom: 1px solid #777;
 }
