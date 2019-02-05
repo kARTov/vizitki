@@ -7,7 +7,6 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 .hd {
-    margin-bottom: 20px;
     border-bottom: 1px solid #777;
 }
 .hd-submenu {
@@ -52,7 +51,8 @@ body {
 }
 .lst-menu div {
     border-bottom: 1px solid #777;
-    padding: 15px 0 15px 30px;
+    padding: 15px 0 15px 35px;
+    font-size: 18px;
 }
 .lst-menu .ld {
     background: url(images/user.svg) no-repeat 0;
