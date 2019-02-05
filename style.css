@@ -2,7 +2,8 @@ body {
     background: #4b4c50;
     padding: 15px;
     color: #f2f2f2;
-    font-size: 13px;
+    font-size: 14px;
+    font-weight: 400;
     font-family: 'Roboto', sans-serif;
 }
 .hd-submenu {
@@ -24,12 +25,23 @@ body {
     color: #d35f5f;
     text-transform: uppercase;
     font-weight: 500;
+    margin-bottom: 5px;
 }
 .hd-fio {
     font-size: 18px;
-    font-weight: bold;
+    line-height: 1;
+    font-weight: 600;
+    margin-bottom: 8px;
 }
 .hd-id {
     color: #87cdde;
     text-transform: uppercase;
+    margin-bottom: 5px;
+}
+.hd-bals {
+    color: #d35f5f;
+    margin-bottom: 5px;
+}
+.lst-menu {
+    font-weight: 500;
 }
