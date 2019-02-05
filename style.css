@@ -17,9 +17,10 @@ body {
 .hd-submenu img {
     width: 24px;
 }
-.hd-img {
+.hd-img img {
     width: 100px;
     float: left;
+    border-radius: 50px;
 }
 .hd-cont {
     margin-left: 115px;
