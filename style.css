@@ -21,6 +21,7 @@ body {
 .hd-status {
     color: #d35f5f;
     text-transform: uppercase;
+    font-weight: 500;
 }
 .hd-fio {
     font-size: 18px;
