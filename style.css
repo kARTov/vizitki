@@ -50,3 +50,15 @@ body {
 .lst-menu {
     font-weight: 500;
 }
+.lst-menu div {
+    border-bottom: 1px solid #777;
+    padding: 15px 0 15px 30px;
+}
+.lst-menu .ld {
+    background: url(images/user.svg) no-repeat 0;
+    background-size: 24px;
+}
+.lst-menu .hist {
+    background: url(images/history.svg) no-repeat 0;
+    background-size: 24px;
+}
