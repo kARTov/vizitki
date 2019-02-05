@@ -59,7 +59,31 @@ body {
     background: url(images/user.svg) no-repeat 0;
     background-size: 24px;
 }
-.lst-menu .hist {
+.lst-menu .hb {
     background: url(images/history.svg) no-repeat 0;
+    background-size: 24px;
+}
+.lst-menu .hv {
+    background: url(images/visits.svg) no-repeat 0;
+    background-size: 24px;
+}
+.lst-menu .ofu {
+    background: url(images/offer.svg) no-repeat 0;
+    background-size: 24px;
+}
+.lst-menu .inf {
+    background: url(images/addfr.svg) no-repeat 0;
+    background-size: 24px;
+}
+.lst-menu .ino {
+    background: url(images/addorg.svg) no-repeat 0;
+    background-size: 24px;
+}
+.lst-menu .gb {
+    background: url(images/gift.svg) no-repeat 0;
+    background-size: 24px;
+}
+.lst-menu .pr {
+    background: url(images/info.svg) no-repeat 0;
     background-size: 24px;
 }
