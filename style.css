@@ -94,3 +94,33 @@ a {
     background: url(images/info.svg) no-repeat 0;
     background-size: 24px;
 }
+
+
+.lst-menu .ofz {
+    background: url(images/shopping-cart.svg) no-repeat 0;
+    background-size: 24px;
+}
+.lst-menu .idcl {
+    background: url(images/shopping-cart.svg) no-repeat 0;
+    background-size: 24px;
+}
+.lst-menu .summ {
+    background: url(images/shopping-cart.svg) no-repeat 0;
+    background-size: 24px;
+}
+.lst-menu .oplb {
+    background: url(images/shopping-cart.svg) no-repeat 0;
+    background-size: 24px;
+}
+.lst-menu .oform {
+    background: url(images/shopping-cart.svg) no-repeat 0;
+    background-size: 24px;
+}
+.lst-menu .sms {
+    background: url(images/sms-speech-bubble.svg) no-repeat 0;
+    background-size: 24px;
+}
+.lst-menu .podt {
+    background: url(images/shopping-cart.svg) no-repeat 0;
+    background-size: 24px;
+}
