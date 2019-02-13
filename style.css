@@ -30,19 +30,22 @@ a {
     margin-left: 115px;
     min-height: 115px;
 }
-.hd-status {
+.hd-status,
+.hd-adm {
     color: #d35f5f;
     text-transform: uppercase;
     font-weight: 500;
     margin-bottom: 5px;
 }
-.hd-fio {
+.hd-fio, 
+.hd-org {
     font-size: 20px;
     line-height: 1;
     font-weight: 600;
     margin-bottom: 8px;
 }
-.hd-id {
+.hd-id,
+.hd-vd {
     color: #87cdde;
     text-transform: uppercase;
     margin-bottom: 5px;
