@@ -173,7 +173,7 @@ span.dig {
 }
 .filds div.sub {
     text-align: center;
-    margin-top: 15px;
+    margin-top: 20px;
 }
 input.btn {
     padding: 12px 40px;
@@ -183,6 +183,7 @@ input.btn {
     font-family: inherit;
     border: none;
     border-radius: 3px;
+    cursor: pointer;
 }
 .btn-sub {
     background: #d35f5e;
