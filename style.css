@@ -139,8 +139,15 @@ a {
     border-radius: 3px;
     color: #f2f2f2;
 }
-div .oplb {
-    margin-bottom: 19px;
+.filds input.oplb {
+    height: 20px;
+    width: 20px;
+    margin: 0px 5px 19px 2px;
+}
+span.oplb {
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 1px;
 }
 .filds input.sms {
     background: url(images/sms-speech-bubble.svg) no-repeat 5px;
