@@ -100,10 +100,6 @@ a {
     background: url(images/shopping-cart.svg) no-repeat 0;
     background-size: 24px;
 }
-.lst-menu .summ {
-    background: url(images/wallet.svg) no-repeat 0;
-    background-size: 24px;
-}
 .lst-menu .oplb {
     background: url(images/gift-card.svg) no-repeat 0;
     background-size: 24px;
@@ -126,6 +122,19 @@ a {
     background-size: 24px;
 }
 .lst-menu input.ld {
+    border: 1px solid #777;
+    padding: 10px 0 10px 40px;
+    font-size: 18px;
+    width: 91%;
+    margin: -1px 0px 15px -5px;
+    border-radius: 3px;
+    color: #f2f2f2;
+}
+.lst-menu input.summ {
+    background: url(images/wallet.svg) no-repeat 0;
+    background-size: 24px;
+}
+.lst-menu input.summ {
     border: 1px solid #777;
     padding: 10px 0 10px 40px;
     font-size: 18px;
