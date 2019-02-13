@@ -143,12 +143,14 @@ a {
     height: 20px;
     width: 20px;
     margin: 0px 5px 19px 2px;
-    color: #d35f5f;
 }
 span.oplb {
     position: absolute;
     margin-left: 10px;
     margin-top: 1px;
+}
+span.oplb.dig {
+    color: #d35f5f;
 }
 .filds input.sms {
     background: url(images/sms-speech-bubble.svg) no-repeat 5px;
