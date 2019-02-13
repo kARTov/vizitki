@@ -101,15 +101,15 @@ a {
     background-size: 24px;
 }
 .lst-menu .summ {
-    background: url(images/shopping-cart.svg) no-repeat 0;
+    background: url(images/wallet.svg) no-repeat 0;
     background-size: 24px;
 }
 .lst-menu .oplb {
-    background: url(images/shopping-cart.svg) no-repeat 0;
+    background: url(images/gift-card.svg) no-repeat 0;
     background-size: 24px;
 }
 .lst-menu .oform {
-    background: url(images/shopping-cart.svg) no-repeat 0;
+    background: url(images/shield.svg) no-repeat 0;
     background-size: 24px;
 }
 .lst-menu .sms {
@@ -117,6 +117,6 @@ a {
     background-size: 24px;
 }
 .lst-menu .podt {
-    background: url(images/shopping-cart.svg) no-repeat 0;
+    background: url(images/checked.svg) no-repeat 0;
     background-size: 24px;
 }
