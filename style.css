@@ -161,9 +161,19 @@ span.dig {
     padding: 10px 0 10px 40px;
     font-size: 18px;
     width: 91%;
-    margin: -1px 0px 15px -5px;
+    margin: -1px 0px 10px -5px;
     border-radius: 3px;
     color: #f2f2f2;
+}
+.filds .insms {
+    font-size: 14px;
+    font-weight: 400;
+    color: #87cdde;
+    border-bottom: 1px dotted; 
+}
+.filds div.sub {
+    text-align: center;
+    margin-top: 15px;
 }
 input.btn {
     padding: 12px 40px;
