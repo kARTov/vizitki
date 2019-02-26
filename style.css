@@ -62,10 +62,7 @@ a {
     padding: 15px 0 15px 35px;
     font-size: 18px;
 }
-.lst-menu .ld,
-.filds input.fname,
-.filds input.lname,
-.filds input.otch {
+.lst-menu .ld {
     background: url(images/user.svg) no-repeat 0;
     background-size: 24px;
 }
@@ -125,7 +122,10 @@ a {
     border-radius: 3px;
     color: #f2f2f2;
 }
-.filds input.idcl {
+.filds input.idcl,
+.filds input.fname,
+.filds input.lname,
+.filds input.otch  {
     background: url(images/user.svg) no-repeat 5px;
     background-size: 24px;
 }
