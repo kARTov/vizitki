@@ -145,7 +145,7 @@ a {
     background: url(images/build.svg) no-repeat 5px;
     background-size: 24px;
 }
-.form input.distr {
+.form input.calendar {
     background: url(images/calendar.svg) no-repeat 5px;
     background-size: 24px;
     color: #757575;
