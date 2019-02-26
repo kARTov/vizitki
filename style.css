@@ -133,15 +133,6 @@ a {
     background: url(images/wallet.svg) no-repeat 5px;
     background-size: 24px;
 }
-.filds input.summ {
-    border: 1px solid #777;
-    padding: 10px 0 10px 40px;
-    font-size: 18px;
-    width: 91%;
-    margin: -1px 0px 15px -5px;
-    border-radius: 3px;
-    color: #f2f2f2;
-}
 .filds input.oplb {
     height: 20px;
     width: 20px;
@@ -158,15 +149,6 @@ span.dig {
 .filds input.sms {
     background: url(images/sms-speech-bubble.svg) no-repeat 5px;
     background-size: 24px;
-}
-.filds input.sms {
-    border: 1px solid #777;
-    padding: 10px 0 10px 40px;
-    font-size: 18px;
-    width: 91%;
-    margin: -1px 0px 10px -5px;
-    border-radius: 3px;
-    color: #f2f2f2;
 }
 .filds .insms {
     font-size: 14px;
@@ -187,6 +169,8 @@ input.btn {
     border: none;
     border-radius: 3px;
     cursor: pointer;
+    width: auto;
+    margin: 0;
 }
 .btn-sub {
     background: #d35f5e;
