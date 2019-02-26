@@ -151,13 +151,6 @@ a {
     color: #757575;
     font-family: inherit;
 }
-/*input[type="date"] {
-    color: #757575;
-    font-family: inherit;
-}*/
-
-
-
 .form input.summ {
     background: url(images/wallet.svg) no-repeat 5px;
     background-size: 24px;
@@ -176,7 +169,7 @@ span.dig {
     color: #d35f5f;
 }
 .form input.sms {
-    background: url(images/sms-speech-bubble.svg) no-repeat 5px;
+    background: url(images/sms.svg) no-repeat 5px;
     background-size: 24px;
 }
 div.insms {
