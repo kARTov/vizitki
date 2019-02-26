@@ -125,11 +125,14 @@ a {
 .filds input.idcl,
 .filds input.fname,
 .filds input.lname,
-.filds input.otch  {
+.filds input.mname  {
     background: url(images/user.svg) no-repeat 5px;
     background-size: 24px;
 }
-
+.filds input.phone {
+    background: url(images/phone.svg) no-repeat 5px;
+    background-size: 24px;
+}
 .filds input.summ {
     background: url(images/wallet.svg) no-repeat 5px;
     background-size: 24px;
