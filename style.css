@@ -113,7 +113,7 @@ a {
     background-size: 24px;
 }
 
-.filds input {
+.form input {
     border: 1px solid #777;
     padding: 10px 12px 10px 40px;
     font-size: 18px;
@@ -122,14 +122,14 @@ a {
     border-radius: 3px;
     color: #f2f2f2;
 }
-.filds input.idcl,
-.filds input.fname,
-.filds input.lname,
-.filds input.mname  {
+.form input.idcl,
+.form input.fname,
+.form input.lname,
+.form input.mname  {
     background: url(images/user.svg) no-repeat 5px;
     background-size: 24px;
 }
-.filds input.phone {
+.form input.phone {
     background: url(images/phone.svg) no-repeat 5px;
     background-size: 24px;
 }
@@ -141,11 +141,14 @@ input[type="date"] {
     color: #757575;
     font-family: inherit;
 }
-.filds input.summ {
+
+
+
+.form input.summ {
     background: url(images/wallet.svg) no-repeat 5px;
     background-size: 24px;
 }
-.filds input.oplb {
+.form input.oplb {
     height: 20px;
     width: 20px;
     margin: 0px 5px 19px 2px;
@@ -158,17 +161,17 @@ span.oplb {
 span.dig {
     color: #d35f5f;
 }
-.filds input.sms {
+.form input.sms {
     background: url(images/sms-speech-bubble.svg) no-repeat 5px;
     background-size: 24px;
 }
-.filds .insms {
+.form .insms {
     font-size: 14px;
     font-weight: 400;
     color: #87cdde;
     border-bottom: 1px dotted; 
 }
-.filds div.sub {
+.form div.sub {
     text-align: center;
     margin-top: 30px;
 }
@@ -186,6 +189,10 @@ input.btn {
 }
 .btn-sub {
     background: #d35f5e;
+    color: #f2f2f2;
+}
+.btn-save {
+    background: #87cdde;
     color: #f2f2f2;
 }
 input.btn:hover {
