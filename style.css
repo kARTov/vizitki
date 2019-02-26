@@ -113,7 +113,7 @@ a {
     background-size: 24px;
 }
 
-.form input {
+form input {
     border: 1px solid #777;
     padding: 10px 12px 10px 40px;
     font-size: 18px;
@@ -122,40 +122,40 @@ a {
     border-radius: 3px;
     color: #f2f2f2;
 }
-.form input.idcl,
-.form input.fname,
-.form input.lname,
-.form input.mname  {
+input.idcl,
+input.fname,
+input.lname,
+input.mname  {
     background: url(images/user.svg) no-repeat 5px;
     background-size: 24px;
 }
-.form input.phone {
+input.phone {
     background: url(images/phone.svg) no-repeat 5px;
     background-size: 24px;
 }
-.form input.email {
+input.email {
     background: url(images/email.svg) no-repeat 5px;
     background-size: 24px;
 }
-.form input.city {
+input.city {
     background: url(images/map.svg) no-repeat 5px;
     background-size: 24px;
 }
-.form input.distr {
+input.distr {
     background: url(images/build.svg) no-repeat 5px;
     background-size: 24px;
 }
-.form input.calendar {
+input.calendar {
     background: url(images/calendar.svg) no-repeat 5px;
     background-size: 24px;
     color: #757575;
     font-family: inherit;
 }
-.form input.summ {
+input.summ {
     background: url(images/wallet.svg) no-repeat 5px;
     background-size: 24px;
 }
-.form input.oplb {
+input.oplb {
     height: 20px;
     width: 20px;
     margin: 0px 5px 19px 2px;
@@ -168,20 +168,20 @@ span.oplb {
 span.dig {
     color: #d35f5f;
 }
-.form input.sms {
+input.sms {
     background: url(images/sms.svg) no-repeat 5px;
     background-size: 24px;
 }
 div.insms {
     margin-bottom: 30px;
 }
-.form .insms a{
+.insms a{
     font-size: 14px;
     font-weight: 400;
     color: #87cdde;
     border-bottom: 1px dotted; 
 }
-.form div.sub {
+div.sub {
     text-align: center;
     margin-top: 15px;
 }
