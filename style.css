@@ -165,6 +165,9 @@ span.dig {
     background: url(images/sms-speech-bubble.svg) no-repeat 5px;
     background-size: 24px;
 }
+div .insms {
+    margin-bottom: 30px;
+}
 .form .insms a{
     font-size: 14px;
     font-weight: 400;
@@ -173,7 +176,7 @@ span.dig {
 }
 .form div.sub {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 15px;
 }
 input.btn {
     padding: 12px 40px;
