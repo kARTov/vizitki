@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -13,15 +13,17 @@
    id="Capa_1"
    x="0px"
    y="0px"
-   viewBox="0 0 384 384"
-   style="enable-background:new 0 0 384 384;"
+   width="510px"
+   height="510px"
+   viewBox="0 0 510 510"
+   style="enable-background:new 0 0 510 510;"
    xml:space="preserve"
-   sodipodi:docname="phone.svg"
+   sodipodi:docname="map.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"><metadata
-     id="metadata5933"><rdf:RDF><cc:Work
+     id="metadata7859"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs5931" /><sodipodi:namedview
+     id="defs7857" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -32,34 +34,34 @@
      inkscape:pageshadow="2"
      inkscape:window-width="776"
      inkscape:window-height="480"
-     id="namedview5929"
+     id="namedview7855"
      showgrid="false"
-     inkscape:zoom="0.61458333"
-     inkscape:cx="-10.576271"
-     inkscape:cy="192"
+     inkscape:zoom="0.4627451"
+     inkscape:cx="-14.04661"
+     inkscape:cy="255"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="Capa_1" /><g
-     id="g5896"
+     id="g7822"
      style="fill:#999999"><g
-       id="g5894"
+       id="place"
        style="fill:#999999"><path
-         d="M362.667,266.667c-26.56,0-52.267-4.267-76.16-12.16c-7.36-2.347-15.787-0.64-21.653,5.227l-46.933,47.04    c-60.48-30.72-109.867-80.107-140.587-140.48l46.933-47.147c5.867-5.867,7.573-14.293,5.227-21.653    c-7.893-23.893-12.16-49.6-12.16-76.16C117.333,9.493,107.84,0,96,0H21.333C9.6,0,0,9.493,0,21.333    C0,221.653,162.347,384,362.667,384c11.84,0,21.333-9.493,21.333-21.333V288C384,276.16,374.507,266.667,362.667,266.667z"
-         id="path5892"
+         d="M255,0C155.55,0,76.5,79.05,76.5,178.5C76.5,311.1,255,510,255,510s178.5-198.9,178.5-331.5C433.5,79.05,354.45,0,255,0z     M255,242.25c-35.7,0-63.75-28.05-63.75-63.75s28.05-63.75,63.75-63.75s63.75,28.05,63.75,63.75S290.7,242.25,255,242.25z"
+         id="path7819"
          style="fill:#999999" /></g></g><g
-     id="g5898" /><g
-     id="g5900" /><g
-     id="g5902" /><g
-     id="g5904" /><g
-     id="g5906" /><g
-     id="g5908" /><g
-     id="g5910" /><g
-     id="g5912" /><g
-     id="g5914" /><g
-     id="g5916" /><g
-     id="g5918" /><g
-     id="g5920" /><g
-     id="g5922" /><g
-     id="g5924" /><g
-     id="g5926" /></svg>
+     id="g7824" /><g
+     id="g7826" /><g
+     id="g7828" /><g
+     id="g7830" /><g
+     id="g7832" /><g
+     id="g7834" /><g
+     id="g7836" /><g
+     id="g7838" /><g
+     id="g7840" /><g
+     id="g7842" /><g
+     id="g7844" /><g
+     id="g7846" /><g
+     id="g7848" /><g
+     id="g7850" /><g
+     id="g7852" /></svg>

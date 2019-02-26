@@ -133,14 +133,28 @@ a {
     background: url(images/phone.svg) no-repeat 5px;
     background-size: 24px;
 }
-
-
-
-
-input[type="date"] {
+.form input.email {
+    background: url(images/email.svg) no-repeat 5px;
+    background-size: 24px;
+}
+.form input.city {
+    background: url(images/map.svg) no-repeat 5px;
+    background-size: 24px;
+}
+.form input.distr {
+    background: url(images/build.svg) no-repeat 5px;
+    background-size: 24px;
+}
+.form input.distr {
+    background: url(images/calendar.svg) no-repeat 5px;
+    background-size: 24px;
     color: #757575;
     font-family: inherit;
 }
+/*input[type="date"] {
+    color: #757575;
+    font-family: inherit;
+}*/
 
 
 
