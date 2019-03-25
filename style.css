@@ -121,22 +121,22 @@ a {
     display: inline-flex;
     font-size: 13px;
     margin: auto;
-    width: 355px;
+    width: 360px;
     left: 0;
     right: 0;
 }
 .bottom-menu div {
-    padding: 5px;
+    padding: 36px 5px 5px;
 }
-.bottom-menu div:first-child {
+/*.bottom-menu div:first-child {
     padding-left: 0;
 }
 .bottom-menu div:last-child {
     padding-right: 0;
-}
+}*/
 .bottom-menu .home {
-    background: url(images/addfr.svg) no-repeat 0;
-    background-size: 48px;
+    background: url(images/addfr.svg) no-repeat center 0;
+    background-size: 36px;
 }
 
 input {
