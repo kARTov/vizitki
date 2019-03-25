@@ -142,23 +142,23 @@ a {
 }*/
 .bottom-menu .home {
     background: url(images/home.svg) no-repeat center 10px;
-    background-size: 30px;
+    background-size: 28px;
 }
 .bottom-menu .vis {
     background: url(images/visit.svg) no-repeat center 10px;
-    background-size: 30px;
+    background-size: 28px;
 }
 .bottom-menu .balls {
     background: url(images/plus-one.svg) no-repeat center 10px;
-    background-size: 30px;
+    background-size: 28px;
 }
 .bottom-menu .fav {
     background: url(images/heart.svg) no-repeat center 10px;
-    background-size: 30px;
+    background-size: 28px;
 }
 .bottom-menu .lk {
     background: url(images/user.svg) no-repeat center 10px;
-    background-size: 30px;
+    background-size: 28px;
 }
 
 input {
