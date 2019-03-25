@@ -147,11 +147,11 @@ a {
     background-size: 36px;
 }
 .bottom-menu .balls {
-    background: url(images/addfr.svg) no-repeat center 10px;
+    background: url(images/plus-one.svg) no-repeat center 10px;
     background-size: 36px;
 }
 .bottom-menu .fav {
-    background: url(images/addfr.svg) no-repeat center 10px;
+    background: url(images/heart.svg) no-repeat center 10px;
     background-size: 36px;
 }
 .bottom-menu .lk {
