@@ -116,10 +116,16 @@ a {
     background-size: 24px;
 }
 .bottom-menu {
+    position: absolute;
+    bottom: 0px;
+    display: inline-flex;
+    font-size: 14px;
+}
+.bottom-menu div {
 
 }
 .bottom-menu .home {
-    
+
 }
 input {
     border: 1px solid #777;
