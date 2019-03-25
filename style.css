@@ -212,13 +212,13 @@ input.btn:hover {
     max-width: 90%;
     position: relative;
     margin: auto;
-    height: 300px;
+    height: auto;
     margin-bottom: 15px;
 }
 .slider .item img {
     object-fit: cover;
     width: 100%;
-    height: 300px;
+    height: auto;
     border: none !important;
     box-shadow: none !important;
 }
