@@ -62,6 +62,8 @@ a {
 .hd-txt {
     color: #87cdde;
     padding-right: 20px;
+    font-size: 20px;
+    font-weight: 700;
 }
 .lst-menu {
     font-weight: 500;
