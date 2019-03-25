@@ -175,6 +175,21 @@ a {
     height: 296px;
     margin: 45px auto;
 }
+.my-balls p {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+.my-balls p.id {
+    color: #29aaca;
+}
+.my-balls p.balls {
+    color: #d35f5e;
+}
+.my-balls span {
+    font-size: 20px;
+    font-weight: 400;
+}
 
 input {
     border: 1px solid #777;
