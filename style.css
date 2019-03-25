@@ -41,7 +41,8 @@ a {
     margin-bottom: 5px;
 }
 .hd-fio, 
-.hd-org {
+.hd-org,
+.hd-title {
     font-size: 20px;
     line-height: 1;
     font-weight: 600;
