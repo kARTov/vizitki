@@ -165,6 +165,13 @@ a {
     background-size: 28px;
 }
 
+.qr-code {
+    background: #f2f2f2
+    border-radius: 3px;
+    width: 280px;
+    height: 280px;
+}
+
 input {
     border: 1px solid #777;
     padding: 10px 12px 10px 40px;
