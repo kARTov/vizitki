@@ -121,12 +121,13 @@ a {
     display: inline-flex;
     font-size: 13px;
     margin: auto;
-    width: 360px;
+    width: 100%;
     left: 0;
     right: 0;
+    background: #2e2f31;
 }
-.bottom-menu div {
-    padding: 36px 5px 5px;
+.bottom-menu a {
+    padding: 46px 5px 10px;
 }
 /*.bottom-menu div:first-child {
     padding-left: 0;
