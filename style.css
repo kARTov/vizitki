@@ -23,6 +23,7 @@ a {
 }
 .hd-submenu img {
     width: 24px;
+    z-index: 1;
 }
 .hd-img img {
     width: 100px;
@@ -31,7 +32,7 @@ a {
     padding-right: 15px;
 }
 .hd-cont {
-    padding-bottom: 15px;
+    padding-bottom: 12px;
 }
 .hd-status,
 .hd-adm {
