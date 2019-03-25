@@ -298,6 +298,53 @@ input.btn:hover {
 /*слайдер 2*/
 
 
+/*
+ * Title: Pure CSS Slider
+ * Author: Clear
+ * Version: 1.0.2
+ * Create: 2015-07-03
+ * Update: 2015-07-05
+ * http://www.ClearDesign.me
+ */
+
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    box-sizing: border-box;
+    outline: none;
+    font-weight: normal;
+}
+
+body {
+    background: #3498DB;
+    color: #fff;
+    font-family: "Segoe UI","Microsoft YaHei";
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+
+    &:hover {
+        color: #d0d0d0;
+    }
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.box-sizing(@a: border-box) {
+    -webkit-box-sizing: @a;
+       -moz-box-sizing: @a;
+        -ms-box-sizing: @a;
+         -o-box-sizing: @a;
+            box-sizing: @a;
+}
+
 .transition(@t: .5s) {
     -webkit-transition: all @t;
        -moz-transition: all @t;
@@ -336,6 +383,27 @@ input.btn:hover {
          -o-animation: @a;
             animation: @a;
 }
+
+/* Header */
+
+.header {
+    color: #fff;
+    text-align: center;
+    min-height: 140px;
+
+    & h1 {
+        margin-top: 100px;
+        font-size: 50px;
+        font-weight: 100;
+    }
+
+    & a {
+        font-size: 18px;
+        margin-left: 20px;
+    }
+}
+
+/* Clear Slider */
 
 .clear-slider {
     position: relative;
@@ -462,4 +530,21 @@ input.btn:hover {
 .slider-point-5:checked ~ ul > li:last-child {
     visibility: visible;
     opacity: 1;
+}
+
+/* Footer */
+
+.footer {
+    min-height: 200px;
+    line-height: 200px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.copyright {
+
+    & span,
+    & a {
+        margin: 0 10px;
+    }
 }
