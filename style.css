@@ -189,9 +189,10 @@ a {
 .my-balls p.balls {
     color: #d35f5e;
 }
-.my-balls span {
+.my-balls p.balls-txt {
     font-size: 20px;
     font-weight: 400;
+    margin-top: -40px;
 }
 
 input {
