@@ -199,6 +199,9 @@ input.btn {
     width: auto;
     margin: 0;
 }
+.btn-balls {
+    margin-top: 30px;
+}
 .btn-sub {
     background: #d35f5e;
     color: #f2f2f2;
