@@ -139,7 +139,7 @@ a {
     padding-right: 0;
 }*/
 .bottom-menu .home {
-    background: url(images/addfr.svg) no-repeat center 0;
+    background: url(images/addfr.svg) no-repeat center 10px;
     background-size: 36px;
 }
 
