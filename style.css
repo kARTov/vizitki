@@ -204,8 +204,8 @@ input.btn {
     color: #f2f2f2;
 }
 .btn-save {
-    background: #87cdde;
-    color: #29aaca;
+    background: #29aaca;
+    color: #f2f2f2;
 }
 input.btn:hover {
     opacity: 0.9;
