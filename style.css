@@ -208,8 +208,10 @@ input.btn {
 input.btn:hover {
     opacity: 0.9;
 }
+
+/*Слайдер*/
 .slider{
-    max-width: 98%;
+    max-width: 100%;
     position: relative;
     margin: auto;
     height: auto;
