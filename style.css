@@ -167,7 +167,9 @@ a {
     background-size: 28px;
 }
 
-.qr-code {
+.qr-code,
+.my-balls {
+    background: #f2f2f2;
     border-radius: 3px;
     width: 296px;
     height: 296px;
