@@ -122,11 +122,18 @@ a {
     font-size: 14px;
 }
 .bottom-menu div {
-
+    padding: 5px;
+}
+.bottom-menu div:first-child {
+    padding-left: 0;
+}
+.bottom-menu div:last-child {
+    padding-right: 0;
 }
 .bottom-menu .home {
 
 }
+
 input {
     border: 1px solid #777;
     padding: 10px 12px 10px 40px;
