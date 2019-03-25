@@ -272,7 +272,7 @@ input.btn:hover {
 }
 .active,
 .slider-dots_item:hover {
-    background-color: #aaa;
+    background-color: #868789;
 }
 .slider .item {
     -webkit-animation-name: fade;
