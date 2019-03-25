@@ -126,8 +126,11 @@ a {
     right: 0;
     background: #2e2f31;
 }
-.bottom-menu a {
+.bottom-menu div {
     padding: 46px 5px 10px;
+}
+.bottom-menu a {
+    padding-top: 36px;
 }
 /*.bottom-menu div:first-child {
     padding-left: 0;
